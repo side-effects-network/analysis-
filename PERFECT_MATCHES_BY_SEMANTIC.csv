@@ -1,0 +1,543 @@
+FROM NW,FROM RANK
+hypermagnesemia,HYPERMAGNESAEMIA
+atelectasis,ATELECTASIS
+Acidosis,ACIDOSIS
+Drug hypersensitivity,HYPERSENSITIVITY
+flatulence,FLATULENCE
+thrombocytopenia,THROMBOCYTOPENIA
+bradycardia,BRADYCARDIA
+lung infiltration,LUNG INFILTRATION
+hyperglycaemia,HYPERGLYCAEMIA
+hypoglycaemia,HYPOGLYCAEMIA
+cerebral infarct,CEREBRAL INFARCTION
+hypoxia,HYPOXIA
+Hypomagnesaemia,HYPOMAGNESAEMIA
+lipoma,LIPOMA
+flank pain,FLANK PAIN
+pneumothorax,PNEUMOTHORAX
+appendicitis,APPENDICITIS
+Strabismus,STRABISMUS
+respiratory failure,ACUTE RESPIRATORY FAILURE
+pulmonary hypertension,PULMONARY HYPERTENSION
+Hypercapnia,HYPERCAPNIA
+leucocytosis,LEUKOCYTOSIS
+ascites,ASCITES
+patent ductus arteriosis,PATENT DUCTUS ARTERIOSUS
+stridor,STRIDOR
+Hypoventilation,HYPOVENTILATION
+anaphylactic reaction,ANAPHYLACTOID REACTION
+adenocarcinoma,ADENOCARCINOMA
+haemorrhoids,HAEMORRHOIDS
+tremor,TREMOR
+Head ache,HEADACHE
+Diplopia,DIPLOPIA
+narcolepsy,NARCOLEPSY
+esophageal spasm,OESOPHAGEAL SPASM
+Breast cancer,BREAST CANCER
+haemolytic anaemia,HAEMOLYTIC ANAEMIA
+sleep disorder,SLEEP DISORDER
+Aphonia,APHONIA
+alopecia,ALOPECIA
+lobar pneumonia,LOBAR PNEUMONIA
+deep vein thromboses,DEEP VEIN THROMBOSIS
+rhinorrhea,RHINORRHOEA
+bursitis,BURSITIS
+nephrocalcinosis,NEPHROCALCINOSIS
+dizziness,DIZZINESS
+Hoarseness,HOARSENESS
+Fatigue,FATIGUE
+diarrhea,DIARRHOEA
+asthma,ASTHMA
+skin lesion,SKIN LESION
+tinnitus,TINNITUS
+muscle spasm,MUSCLE SPASMS
+glossodynia,GLOSSODYNIA
+anal fissure,ANAL FISSURE
+cellulitis,CELLULITIS
+vocal cord paralysis,VOCAL CORD PARESIS
+dry skin,DRY SKIN
+Leukaemia,LEUKAEMIA
+myopia,MYOPIA
+cognitive disorder,COGNITIVE DISORDER
+hypothyroid,HYPOTHYROIDISM
+dermatitides,DERMATITIS
+erythema multiforme,ERYTHEMA MULTIFORME
+nasal congestion,NASAL CONGESTION
+amenorrhea,AMENORRHOEA
+epistaxis,EPISTAXIS
+hepatitis,HEPATITIS A
+cholelithiasis,CHOLELITHIASIS
+pyoderma,PYODERMA
+Blood disorder,BLOOD DISORDER
+loss of consciousness,LOSS OF CONSCIOUSNESS
+Arthritis infective,ARTHRITIS INFECTIVE
+nasopharyngitis,NASOPHARYNGITIS
+Rhinitis,RHINITIS
+hepatic neoplasia,HEPATIC NEOPLASM
+azotaemia,AZOTAEMIA
+muscle weakness,MUSCULAR WEAKNESS
+hypochloraemia,HYPOCHLORAEMIA
+cataract,CATARACT
+insomnia,INSOMNIA
+dyspepsia,DYSPEPSIA
+asthenia,ASTHENIA
+biliary tract disorder,BILIARY TRACT DISORDER
+colitis ischemic,COLITIS ISCHAEMIC
+Small intestinal obstruction,SMALL INTESTINAL OBSTRUCTION
+blood sodium decreased,BLOOD SODIUM INCREASED
+sneezing,SNEEZING
+hypokalaemia,HYPOKALAEMIA
+osteoporosis,OSTEOPOROSIS
+arteriosclerosis,ARTERIOSCLEROSIS
+fibromyalgia,FIBROMYALGIA
+palpitation,PALPITATIONS
+herpes zoster,HERPES ZOSTER
+myoglobinuria,MYOGLOBINURIA
+arthritis,ARTHRITIS
+colonic polyp,COLONIC POLYP
+pyelonephritis,PYELONEPHRITIS
+Blepharospasm,BLEPHAROSPASM
+benign prostatic hyperplasia,BENIGN PROSTATIC HYPERPLASIA
+decubitus ulcer,DECUBITUS ULCER
+prostatism,PROSTATISM
+Atrioventricular block first degree,ATRIOVENTRICULAR BLOCK FIRST DEGREE
+Cough,COUGH
+Vestibular disorder,VESTIBULAR DISORDER
+panic attack,PANIC ATTACK
+nightmare,NIGHTMARE
+nocturia,NOCTURIA
+bronchitis,BRONCHITIS
+polyp,POLYP
+osteomyelitis,OSTEOMYELITIS
+coma,COMA
+renal cyst,RENAL CYST
+neuropathy peripheral,NEUROPATHY PERIPHERAL
+Bacterial infection,SKIN BACTERIAL INFECTION
+joint swelling,JOINT SWELLING
+hernia,HERNIA
+pulmonary mass,PULMONARY MASS
+lung neoplasms,LUNG NEOPLASM
+balance disorder,BALANCE DISORDER
+sensory disturbance,SENSORY DISTURBANCE
+Nephrolithiasis,NEPHROLITHIASIS
+dysarthria,DYSARTHRIA
+rhabdomyolysis,RHABDOMYOLYSIS
+renal colic,RENAL COLIC
+bundle branch block left,BUNDLE BRANCH BLOCK
+malabsorption,MALABSORPTION
+aphasia,APHASIA
+Amnesia,AMNESIA
+body temperature increased,BODY TEMPERATURE INCREASED
+burning sensation,BURNING SENSATION
+chill,CHILLS
+phaeochromocytoma,PHAEOCHROMOCYTOMA
+night sweat,NIGHT SWEATS
+dehydration,DEHYDRATION
+transient ischaemic attack,TRANSIENT ISCHAEMIC ATTACK
+psychosexual disorder,PSYCHOSEXUAL DISORDER
+Anxiety,ANXIETY
+fat embolism,FAT EMBOLISM
+nephrosclerosis,NEPHROSCLEROSIS
+post traumatic stress disorder,POST-TRAUMATIC STRESS DISORDER
+laryngitis,LARYNGITIS
+angiopathy,ANGIOPATHY
+adjustment disorder,ADJUSTMENT DISORDER
+nausea,NAUSEA
+dysphasia,DYSPHAGIA
+Sinusitis,SINUSITIS
+cerebral atrophy,CEREBRAL ATROPHY
+hyperlipaemia,HYPERAEMIA
+metabolic encephalopathy,METABOLIC ENCEPHALOPATHY
+encephalitis,ENCEPHALITIS
+Atherosclerosis,ATHEROSCLEROSIS
+emphysema,EMPHYSEMA
+Postherpetic Neuralgia,POST HERPETIC NEURALGIA
+Eosinophil Count Increased,EOSINOPHIL COUNT INCREASED
+Neuritis,NEURITIS
+gingivitis,GINGIVITIS
+soft tissue infection,SOFT TISSUE INFECTION
+aseptic necrosis bone,ASEPTIC NECROSIS BONE
+bruxism,BRUXISM
+arthropathy,ARTHROPATHY
+pericardial effusion,PERICARDIAL EFFUSION
+herpes simplex,HERPES SIMPLEX
+blood in urine,BLOOD URINE
+abortion spontaneous,ABORTION SPONTANEOUS
+urosepsis,UROSEPSIS
+schizophrenia,SCHIZOPHRENIA
+cardiac murmur,CARDIAC MURMUR
+odynophagia,ODYNOPHAGIA
+multiple sclerosis,MULTIPLE SCLEROSIS
+Enuresis,ENURESIS
+bundle branch block right,BUNDLE BRANCH BLOCK
+Personality disorder,PERSONALITY DISORDER
+cervicitis,CERVICITIS
+cervical dysplasia,CERVICAL DYSPLASIA
+ecchymoses,ECCHYMOSIS
+blood pressure abnormal,BLOOD PRESSURE ABNORMAL
+joint stiffness,JOINT STIFFNESS
+phobia,PHOBIA
+esophagitis,OESOPHAGITIS
+nephrotic syndrome,NEPHROTIC SYNDROME
+proctalgia,PROCTALGIA
+bone pain,BONE PAIN
+proctitis,PROCTITIS
+spondylosis,SPONDYLOSIS
+dyspareunia,DYSPAREUNIA
+hyperparathyroidism,HYPERPARATHYROIDISM
+wound dehiscence,WOUND DEHISCENCE
+portal vein thrombosis,PORTAL VEIN THROMBOSIS
+Arachnoiditis,ARACHNOIDITIS
+synovitis,SYNOVITIS
+hyperhidrosis,HYPERHIDROSIS
+nystagmus,NYSTAGMUS
+apraxia,APRAXIA
+Rectal Tenesmus,RECTAL TENESMUS
+amyloidosis,AMYLOIDOSIS
+prostatitis,PROSTATITIS
+Scar,SCAR
+difficulty in walking,DIFFICULTY IN WALKING
+atrial septal defect,ATRIAL SEPTAL DEFECT
+Tendinitis,TENDONITIS
+intestinal functional disorder,INTESTINAL FUNCTIONAL DISORDER
+haematochezia,HAEMATOCHEZIA
+radiculopathy,RADICULOPATHY
+dysphonia,DYSPHONIA
+bipolar disorder,BIPOLAR DISORDER
+duodenitis,DUODENITIS
+malignant melanoma,MALIGNANT MELANOMA
+hydronephrosis,HYDRONEPHROSIS
+dental caries,DENTAL CARIES
+fistula,FISTULA
+gynaecomastia,GYNAECOMASTIA
+Hypophosphataemia,HYPOPHOSPHATAEMIA
+renal tubular acidosis,RENAL TUBULAR ACIDOSIS
+dysaesthesia,DYSAESTHESIA
+Hepatic failure,HEPATIC FAILURE
+movement disorder,MOVEMENT DISORDER
+musculoskeletal pain,MUSCULOSKELETAL PAIN
+psychosomatic disease,PSYCHOSOMATIC DISEASE
+paranoia,PARANOIA
+retinal degeneration,RETINAL DEPIGMENTATION
+rotator cuff syndrome,ROTATOR CUFF SYNDROME
+impetigo,IMPETIGO
+angioedema,ANGIOEDEMA
+hyperthyroidism,HYPERPARATHYROIDISM
+cardiac failure,CARDIAC FAILURE
+atrioventricular block second degree,ATRIOVENTRICULAR BLOCK FIRST DEGREE
+sinus arrest,SINUS ARREST
+bundle branch block,BUNDLE BRANCH BLOCK
+melanocytic naevus,MELANOCYTIC NAEVUS
+atrial flutter,ATRIAL FLUTTER
+syncope vasovagal,SYNCOPE VASOVAGAL
+aspergillosis,ASPERGILLOSIS
+enteritis,ENTERITIS
+Multiple Myeloma,MULTIPLE MYELOMA
+hemiparesis,HEMIPARESIS
+gangrene,GANGRENE
+defaecation urgency,DEFAECATION URGENCY
+trigeminal neuralgia,TRIGEMINAL NEURALGIA
+hordeolum,HORDEOLUM
+polyuria,POLYURIA
+periodontal disease,PERIODONTAL DISEASE
+obesity,OBESITY
+glucosuria,GLYCOSURIA
+basal cell carcinoma,BASAL CELL CARCINOMA
+failure to thrive,FAILURE TO THRIVE
+Cardiac tamponade,CARDIAC TAMPONADE
+endocrine disorder,ENDOCRINE DISORDER
+renal abscess,RENAL ABSCESS
+gastric dilatation,GASTRIC DILATATION
+shoulder pain,SHOULDER PAIN
+joint effusion,JOINT EFFUSION
+ventricular septal defect,VENTRICULAR SEPTAL DEFECT
+respiratory alkalosis,RESPIRATORY ALKALOSIS
+substance abuse,SUBSTANCE ABUSE
+dry eye,DRY EYE
+Ovarian Cyst,OVARIAN CYST
+micturition urgency,MICTURITION URGENCY
+Scleroderma,SCLERODERMA
+Cor pulmonale,COR PULMONALE
+subarachnoid haemorrhage,SUBARACHNOID HAEMORRHAGE
+umbilical hernia,UMBILICAL HERNIA
+epicondylitis,EPICONDYLITIS
+gout,GOUT
+squamous cell carcinoma of skin,SQUAMOUS CELL CARCINOMA OF SKIN
+Tenosynovitis,TENOSYNOVITIS
+rectal polyp,RECTAL POLYP
+menometrorrhagia,MENOMETRORRHAGIA
+breast enlargement,BREAST ENLARGEMENT
+flashbacks,FLASHBACK
+Pelvic Inflammatory Disease,PELVIC INFLAMMATORY DISEASE
+antinuclear antibody positive,ANTINUCLEAR ANTIBODY POSITIVE
+galactorrhea,GALACTORRHOEA
+schizoaffective disorder,SCHIZOAFFECTIVE DISORDER
+borderline personality disorder,BORDERLINE PERSONALITY DISORDER
+hepatic necrosis,HEPATIC NECROSIS
+portal hypertension,PORTAL HYPERTENSION
+reflux esophagitis,REFLUX OESOPHAGITIS
+Seroma,SEROMA
+trigger finger,TRIGGER FINGER
+Nail disorder,NAIL DISORDER
+lichen planus,LICHEN PLANUS
+keratoacanthomas,KERATOACANTHOMA
+milia,MILIA
+carotid artery stenosis,CAROTID ARTERY STENOSIS
+gastric polyps,GASTRIC POLYPS
+hyperkeratosis,HYPERKERATOSIS
+hepatitis B,HEPATITIS
+hepatitis B surface antigen positive,HEPATITIS B E ANTIGEN POSITIVE
+orthopnea,ORTHOPNOEA
+renal mass,RENAL MASS
+Onycholysis,ONYCHOLYSIS
+mixed connective tissue disease,MIXED CONNECTIVE TISSUE DISEASE
+breast discharge,BREAST DISCHARGE
+limb malformation,LIMB MALFORMATION
+Hyperprolactinaemia,HYPERPROLACTINAEMIA
+meningocele,MENINGOCELE
+acute psychosis,ACUTE PSYCHOSIS
+ketoacidosis,KETOACIDOSIS
+sarcoidosis,SARCOIDOSIS
+tonsillar hypertrophy,TONSILLAR HYPERTROPHY
+acanthosis nigricans,ACANTHOSIS NIGRICANS
+hyperpigmentation,SKIN HYPERPIGMENTATION
+costochondritis,COSTOCHONDRITIS
+agoraphobia,AGORAPHOBIA
+cheilosis,CHEILOSIS
+OPTIC NEURITIS,OPTIC NEURITIS
+scotoma,SCOTOMA
+neuroblastoma,NEUROBLASTOMA
+erysipelas,ERYSIPELAS
+paraparesis,PARAPARESIS
+color blindness,COLOUR BLINDNESS
+hepatorenal syndrome,HEPATORENAL SYNDROME
+petechia,PETECHIAE
+glioma,GLIOMA
+pyoderma gangrenosum,PYODERMA GANGRENOSUM
+benign intracranial hypertension,BENIGN INTRACRANIAL HYPERTENSION
+hydrocephalus,HYDROCEPHALUS
+hypogammaglobulinaemia,HYPOGAMMAGLOBULINAEMIA
+Acne,ACNE
+labyrinthitis,LABYRINTHITIS
+neck mass,NECK MASS
+tracheitis,TRACHEITIS
+rheumatic heart disease,RHEUMATIC HEART DISEASE
+Vitamin D Deficiency,VITAMIN D DEFICIENCY
+parotitis,PAROTITIS
+choreoathetosis,CHOREOATHETOSIS
+pericarditis,PERICARDITIS
+cerumen impaction,CERUMEN IMPACTION
+vitiligo,VITILIGO
+paronychia,PARONYCHIA
+dermatomyositis,DERMATOMYOSITIS
+cerebral palsy,CEREBRAL PALSY
+aplasia pure red cell,APLASIA PURE RED CELL
+furuncle,FURUNCLE
+periostitis,PERIOSTITIS
+polyarthritis,POLYARTHRITIS
+phimosis,PHIMOSIS
+Lacrimal Disorder,LACRIMAL DISORDER
+inflammatory bowel disease,INFLAMMATORY BOWEL DISEASE
+brain abscess,BRAIN ABSCESS
+ectopic pregnancies,ECTOPIC PREGNANCY
+varicose vein,VARICOSE VEIN
+pilonidal cyst,PILONIDAL CYST
+aphthous stomatitis,APHTHOUS STOMATITIS
+vaginal discharge,VAGINAL DISCHARGE
+Keloid scar,KELOID SCAR
+left ventricular hypertrophy,VENTRICULAR HYPERTROPHY
+tetany,TETANY
+haemangioma,HAEMANGIOMA
+Arthritis bacterial,ARTHRITIS BACTERIAL
+Splenic infarction,SPLENIC INFARCTION
+Pneumocystis carinii pneumonia,PNEUMOCYSTIS CARINII PNEUMONIA
+phlebitis superficial,PHLEBITIS SUPERFICIAL
+gallbladder polyp,GALLBLADDER POLYP
+hypovitaminosis,HYPOVITAMINOSIS
+carotid bruit,CAROTID BRUIT
+vitamin B 12 deficiency,VITAMIN B12 DEFICIENCY
+normal pressure hydrocephalus,NORMAL PRESSURE HYDROCEPHALUS
+paraplegia,PARAPLEGIA
+cholecystitis chronic,CHOLECYSTITIS CHRONIC
+myasthenia gravis,MYASTHENIA GRAVIS
+fibroids,FIBROSIS
+superior vena cava syndrome,INFERIOR VENA CAVA SYNDROME
+mediastinal disorder,MEDIASTINAL DISORDER
+albuminuria,ALBUMINURIA
+Breast swelling,BREAST SWELLING
+neoplasm prostate,NEOPLASM PROSTATE
+alveolar proteinosis,ALVEOLAR PROTEINOSIS
+histoplasmosis,HISTOPLASMOSIS
+telangiectases,TELANGIECTASIA
+Rheumatic fever,RHEUMATIC FEVER
+neurodermatitis,NEURODERMATITIS
+fibroadenoma of breast,FIBROADENOMA OF BREAST
+ganglion,GANGLION
+urethritis,URETHRITIS
+vitreous detachment,VITREOUS DETACHMENT
+Vitreous haemorrhage,VITREOUS HAEMORRHAGE
+venous insufficiency,VENOUS INSUFFICIENCY
+tension headache,TENSION HEADACHE
+night cramps,NIGHT CRAMPS
+pigmentation disorder,PIGMENTATION DISORDER
+keratitis,KERATITIS
+diabetes insipidus,DIABETES INSIPIDUS
+carbuncle,CARBUNCLE
+folliculitis,FOLLICULITIS
+jaundice neonatal,JAUNDICE NEONATAL
+empyema,EMPYEMA
+cleft lip,CLEFT LIP
+Meningitis Viral,MENINGITIS VIRAL
+hydrocele,HYDROCELE
+iritis,IRITIS
+chalazion,CHALAZION
+arterial insufficiency,ARTERIAL INSUFFICIENCY
+neurogenic bladder,NEUROGENIC BLADDER
+nasal polyp,NASAL POLYPS
+Uterine polyp,UTERINE POLYP
+vascular anomaly,VASCULAR ANOMALY
+cryptococcosis,CRYPTOCOCCOSIS
+priapism,PRIAPISM
+Retinal artery occlusion,RETINAL ARTERY OCCLUSION
+cluster headache,CLUSTER HEADACHE
+macrocytosis,MACROCYTOSIS
+rectal discharge,RECTAL DISCHARGE
+calculus ureteric,CALCULUS URETERIC
+dysphemia,DYSPHEMIA
+infectious mononucleosis,INFECTIOUS MONONUCLEOSIS
+methaemoglobinaemia,METHAEMOGLOBINAEMIA
+pancreatic pseudocyst,PANCREATIC PSEUDOCYST
+retinal vein thrombosis,RETINAL VEIN THROMBOSIS
+Lyme Disease,LYME DISEASE
+motion sickness,MOTION SICKNESS
+pneumoconiosis,PNEUMOCONIOSIS
+Skin Striae,SKIN STRIAE
+hyperchloremia,HYPERCHLORAEMIA
+corneal ulcer,CORNEAL ULCER
+eye redness,EYE REDNESS
+panniculitis,PANNICULITIS
+sacroiliitis,SACROILIITIS
+pyuria,PYURIA
+hypervitaminosis,HYPERVITAMINOSIS A
+Porphyria,PORPHYRIA
+intussusception,INTUSSUSCEPTION
+amaurosis fugax,AMAUROSIS FUGAX
+gestational diabetes,GESTATIONAL DIABETES
+xanthoma,XANTHOMA
+Penile pain,PENILE PAIN
+optic atrophy,OPTIC ATROPHY
+xerosis,XEROSIS
+rectal prolapse,RECTAL PROLAPSE
+hypersplenism,HYPERSPLENISM
+Peyronies Disease,PEYRONIES DISEASE
+papillary necrosis,RENAL PAPILLARY NECROSIS
+dacrocystitis,DACRYOCYSTITIS
+megacolon,MEGACOLON
+Cholangitis sclerosing,CHOLANGITIS SCLEROSING
+ophthalmoplegia,OPHTHALMOPLEGIA
+haemarthrosis,HAEMARTHROSIS
+epiglottitis,EPIGLOTTITIS
+Neurosis,NEUROSIS
+tinea pedis,TINEA PEDIS
+hypertrichosis,HYPERTRICHOSIS
+tuberculin test positive,TUBERCULIN TEST POSITIVE
+hypogonadism,HYPOGONADISM
+hydroureter,HYDROURETER
+mental retardation,MENTAL RETARDATION
+Hepatitis A,HEPATITIS A
+Salpingitis,SALPINGITIS
+esophageal stenosis,OESOPHAGEAL STENOSIS
+febrile convulsion,FEBRILE CONVULSION
+regurgitation,REGURGITATION
+lymphangitis,LYMPHANGITIS
+parotid gland enlargement,PAROTID GLAND ENLARGEMENT
+epididymitis,EPIDIDYMITIS
+bronchiolitis,BRONCHITIS
+coccydynia,COCCYDYNIA
+dysmenorrhea,DYSMENORRHOEA
+Post thrombotic syndrome,POST THROMBOTIC SYNDROME
+glioblastoma multiforme,GLIOBLASTOMA MULTIFORME
+episcleritis,EPISCLERITIS
+Bunion,BUNION
+Astrocytoma,ASTROCYTOMA
+trisomy 21,TRISOMY 21
+heat rash,HEAT RASH
+reflex sympathetic dystrophy,REFLEX SYMPATHETIC DYSTROPHY
+pyloric stenosis,PYLORIC STENOSIS
+exophthalmos,EXOPHTHALMOS
+pemphigus,PEMPHIGUS
+Viral Pharyngitis,VIRAL PHARYNGITIS
+Retroperitoneal fibrosis,RETROPERITONEAL FIBROSIS
+cleft palate,CLEFT PALATE
+hypomenorrhea,HYPOMENORRHOEA
+Polymenorrhea,POLYMENORRHOEA
+asthenopia,ASTHENOPIA
+prolactinoma,PROLACTINOMA
+Endometritis,ENDOMETRITIS
+endometriosis,ENDOMETRITIS
+Oligomenorrhea,OLIGOMENORRHOEA
+lactose intolerance,LACTOSE INTOLERANCE
+retinitis,RETINITIS
+refraction disorder,REFRACTION DISORDER
+acute glomerulonephritis,GLOMERULONEPHRITIS
+folate deficiency,FOLATE DEFICIENCY
+iridocyclitis,IRIDOCYCLITIS
+acute febrile neutrophilic dermatosis,ACUTE FEBRILE NEUTROPHILIC DERMATOSIS
+arteritis,ARTERITIS
+ichthyosis,ICHTHYOSIS
+cryptorchidism,CRYPTORCHISM
+orchitis,ORCHITIS
+Leriche syndrome,LERICHE SYNDROME
+ocular hypertension,OCULAR HYPERTENSION
+hepatitis C antibody positive,HEPATITIS C ANTIBODY POSITIVE
+Tympanic membrane disorder,TYMPANIC MEMBRANE DISORDER
+dandruff,DANDRUFF
+vulval abscess,VULVAL ABSCESS
+ectropion,ECTROPION
+syphilis,SYPHILIS
+Vaginal prolapse,VAGINAL PROLAPSE
+balanitis,BALANITIS
+carcinoma,CARCINOMA
+parapsoriasis,PARAPSORIASIS
+Intertrigo,INTERTRIGO
+anogenital warts,ANOGENITAL WARTS
+salivary gland enlargement,SALIVARY GLAND ENLARGEMENT
+dyslexia,DYSLEXIA
+esophageal perforation,OESOPHAGEAL PERFORATION
+dermatophytosis,DERMATOPHYTOSIS
+Dermatitis diaper,DERMATITIS DIAPER
+hypercalcinuria,HYPERCALCIURIA
+toxoplasmosis,TOXOPLASMOSIS
+hyperamylasaemia,HYPERAMYLASAEMIA
+high risk pregnancy,HIGH RISK PREGNANCY
+molluscum contagiosum,MOLLUSCUM CONTAGIOSUM
+tinea cruris,TINEA CRURIS
+dwarfism,DWARFISM
+hemoglobinuria,MYOGLOBINURIA
+vascular headache,VASCULAR HEADACHE
+hypoparathyroidism,HYPOTHYROIDISM
+entropion,ECTROPION
+trifascicular block,TRIFASCICULAR BLOCK
+meibomianitis,MEIBOMIANITIS
+Osteogenesis Imperfecta,OSTEOGENESIS IMPERFECTA
+scleritis,SCLERITIS
+ephelides,EPHELIDES
+vitamin B deficiency,VITAMIN B12 DEFICIENCY
+pyogenic granuloma,PYOGENIC GRANULOMA
+choriocarcinoma,CHORIOCARCINOMA
+Oily Skin,OILY SKIN
+encopresis,ENCOPRESIS
+hypospadias,HYPOSPADIAS
+eosinophilic pneumonia acute,EOSINOPHILIC PNEUMONIA ACUTE
+cataplexy,CATAPLEXY
+Myringitis,MYRINGITIS
+penile discharge,PENILE DISCHARGE
+hypochondriasis,HYPOCHONDRIASIS
+renal agenesis,RENAL AGENESIS
+chorioretinitis,CHORIORETINITIS
+breast malformation,BREAST MALFORMATION
+rickets,RICKETS
+supernumerary nipple,SUPERNUMERARY NIPPLE
+sexually transmitted diseases,SEXUALLY TRANSMITTED DISEASE
+bladder diverticulum,BLADDER DIVERTICULUM
+chloasma,CHLOASMA
