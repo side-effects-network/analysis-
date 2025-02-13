@@ -1,0 +1,220 @@
+FROM NW,FROM RANK
+lung edema,LUNG INFECTION
+peliosis,PEMPHIGUS
+rupture of spleen,SPLEEN DISORDER
+Apnea,SLEEP APNOEA SYNDROME
+pain in throat,THROAT IRRITATION
+allergies,EYE ALLERGY
+Bleeding,SKIN BLEEDING
+asystole,ASPIRATION
+Difficulty breathing,RESPIRATION ABNORMAL
+appendectomy,APPENDICITIS
+Blood calcium decreased,BLOOD CHLORIDE DECREASED
+hot flash,HOT FLUSH
+arterial pressure NOS decreased,BLOOD PRESSURE INCREASED
+arterial pressure NOS increased,BLOOD PRESSURE INCREASED
+edema,EMPYEMA
+Cold extremities,SKIN WARM
+facial flushing,HOT FLUSH
+neumonia,NEURITIS
+still birth,STILLBIRTH
+drug toxicity NOS,DRUG TOLERANCE
+drowsiness,FATIGUE
+enlarged spleen,SPLEEN DISORDER
+optic disc edema,OPTIC NEUROPATHY
+leucopenia,ERYTHROPENIA
+sunburn,SKIN BURNING SENSATION
+Clotting,DISSEMINATED INTRAVASCULAR COAGULATION
+muscle paresis,MUSCLE TWITCHING
+ear discharge,EAR CONGESTION
+acute brain syndrome,ACUTE STRESS DISORDER
+aching muscles,SHOULDER PAIN
+bad breath,BREATH ODOUR
+loss of weight,DECREASED APPETITE
+Colon Spastic,MUSCLE SPASTICITY
+heart attack,PANIC ATTACK
+emesis,PARESIS
+Extremity pain,DISCOMFORT
+lower GI bleeding,GINGIVAL BLEEDING
+bulging,FONTANELLE BULGING
+acid reflux,REFLUX OESOPHAGITIS
+Aching joints,JOINT STIFFNESS
+Dyspnea exertional,DYSSOMNIA
+diabetic acidosis,ACIDOSIS
+wrist fracture,OSTEOPOROTIC FRACTURE
+meningitides,MENORRHAGIA
+wandering atrial pacemaker,ATRIAL FIBRILLATION
+spinning sensation,VERTIGO
+enlarged liver,HEPATIC PAIN
+laceration,VEIN DISCOLOURATION
+amyotrophy,ATROPHY
+cachectic,CACHEXIA
+angiitis,STOMATITIS
+bronchial spasm,BRONCHITIS
+Cardiac decompensation,CARDIAC MURMUR
+mucositis oral,ORAL PAIN
+deglutition disorder,PIGMENTATION DISORDER
+Scoliosis,POSTURE ABNORMAL
+autonomic instability,AUTONOMIC NEUROPATHY
+apoplexy,CATAPLEXY
+heart rate increased,BLOOD PRESSURE INCREASED
+coeliac disease,BILIARY COLIC
+drug withdrawal,DRUG TOLERANCE
+Bilirubinaemia,BLOOD BILIRUBIN INCREASED
+amentia,AMENORRHOEA
+cervicalgia,NECK PAIN
+AFIB,ATRIAL FIBRILLATION
+floaters,VITREOUS FLOATERS
+bone inflammation,INFLAMMATION
+cardiac enlargement,BREAST ENLARGEMENT
+adenitis,ADENOVIRUS INFECTION
+muscle strain,MUSCLE MASS
+Blood Calcium Increased,BLOOD SODIUM INCREASED
+sleep apnea,SLEEP DISORDER
+Raynauds phenomenon,POOR PERIPHERAL CIRCULATION
+head injury,HEAD DISCOMFORT
+gastrointestinal bleed,SKIN BLEEDING
+femoral neck fracture,OSTEOPOROTIC FRACTURE
+sleep walking,SLEEP TALKING
+bruise,INJECTION SITE BRUISING
+hip fracture,BONE PAIN
+obstructive uropathy,URINE ABNORMALITY
+bone spur,BONE PAIN
+Chest infection,CHEST DISCOMFORT
+myelopathy,MYDRIASIS
+black stools,MUCOUS STOOLS
+Electrolyte disorder,ELECTROLYTE IMBALANCE
+mitral valve prolapse,MITRAL VALVE INCOMPETENCE
+fatty liver,FAT NECROSIS
+atrial ectopic beats,ATRIAL FIBRILLATION
+cervical vertebral fracture,OSTEOPOROTIC FRACTURE
+phlebothrombosis,PHLEBITIS SUPERFICIAL
+goiter,GOITRE
+Adenopathy,ARTHROPATHY
+tympanic membrane perforation,TYMPANIC MEMBRANE DISORDER
+hyperalimentation,HYPERTONIA
+Parkinson,TREMOR
+Cardiac ischemia,CARDIAC DISORDER
+rib fracture,OSTEOPOROTIC FRACTURE
+fractured pelvis NOS,COMPRESSION FRACTURE
+angina,ANGIOEDEMA
+muscle disorder,MUSCLE MASS
+cramp,NIGHT CRAMPS
+cardiovascular collapse,CARDIOVASCULAR DISORDER
+bone marrow transplant,BONE MARROW TOXICITY
+elevated triglycerides,LIPIDS INCREASED
+Glucose intolerance,LACTOSE INTOLERANCE
+CMV infection,VIRAL INFECTION
+cardiac valvulopathy,ANGIOPATHY
+meningeal irritation,DISCOMFORT
+ankle fracture,OSTEOPOROTIC FRACTURE
+Polio,POLIOMYELITIS
+excessive sleepiness,INSOMNIA
+cerebral vascular disorder,VASCULAR ANOMALY
+heavy menstrual period,MENSTRUATION DELAYED
+Bleeding gums,GINGIVAL BLEEDING
+ingrowing nail,NAIL DISORDER
+petit mal,PETIT MAL EPILEPSY
+seborrhoeic keratosis,KERATOSIS PILARIS
+coughing blood,COUGH DECREASED
+radiation pneumonitis,PNEUMOTHORAX
+alcohol consumption,SUBSTANCE ABUSE
+myelodysplasia,MYDRIASIS
+brain concussion,HEADACHE
+macroglossia,GLOSSODYNIA
+Altered Bowel Function,ABNORMAL FAECES
+Breakthrough bleeding,SKIN BLEEDING
+cholecystectomies,CHOLECYSTITIS CHRONIC
+Muscle Rupture,MUSCLE FATIGUE
+EBV infection,VIRAL INFECTION
+agranulocytoses,AGRANULOCYTOSIS
+Post nasal drip,NASAL CONGESTION
+colostomy,EXOSTOSIS
+Tooth Impacted,TOOTH DISCOLOURATION
+spider angioma,ANGIOMYOLIPOMA
+retinal scar,SCAR
+birth defect,POSTPARTUM DISORDER
+coronary artery bypass graft,VASCULAR GRAFT OCCLUSION
+hiccough,HICCUPS
+acquired immune deficiency syndrome,DEFICIENCY ANAEMIA
+pneumonia primary atypical,IDIOPATHIC PNEUMONIA SYNDROME
+cystic acne,ACNE
+body tinea,TINNITUS
+coccidioidomycosis,MYDRIASIS
+humerus fracture,OSTEOPOROTIC FRACTURE
+volvulus,VAGINISMUS
+Neuromuscular Disorder,MUSCLE TWITCHING
+primary biliary cirrhosis,BILIARY TRACT DISORDER
+colon polypectomy,COLONIC OBSTRUCTION
+Alcoholic intoxication,SUBSTANCE ABUSE
+food allergy,EYE ALLERGY
+ovulation pain,PELVIC PAIN
+hirsuitism,HIRSUTISM
+Burns Second Degree,BURNING SENSATION
+kidney transplant,KIDNEY INFECTION
+fracture nonunion,OSTEOPOROTIC FRACTURE
+gallbladder perforation,GALLBLADDER POLYP
+hyperacusia,HYPOGEUSIA
+Fatty stools,MUCOUS STOOLS
+epidural hematoma,SUBDURAL HAEMATOMA
+food intolerance,TEMPERATURE INTOLERANCE
+mycosis fungoides,MYDRIASIS
+Anisocoria,ANORGASMIA
+thyroid cyst,DERMAL CYST
+hypoaldosteronism,HYPOMANIA
+coronary angioplasty,ANGIOEDEMA
+hyperphosphatemia,HYPOSMIA
+agnosia,ACHOLIA
+esophageal rupture,OESOPHAGEAL PAIN
+food poisoning,VOMITING
+heat stroke,HEAT RASH
+Salivary Gland Calculus,SALIVA ALTERED
+foreign body in eye,EYE PAIN
+myoma,MYDRIASIS
+testes pain,TESTICULAR PAIN
+periarteritis nodosa,SKIN NODULE
+Diphtheria,DIPLOPIA
+premature separation of placenta,PLACENTAL DISORDER
+adrenal carcinoma,ADRENAL DISORDER
+trichomoniasis,TRICHORRHEXIS
+tinea versicolor,TINEA PEDIS
+lagophthalmos,LARYNGOSPASM
+abortion missed,UNINTENDED PREGNANCY
+Viral rash NOS,RASH SCALY
+gastric stasis,GASTRIC DISORDER
+thyroidectomy,THYROID FUNCTION TEST ABNORMAL
+bulimia,BINGE EATING
+hypermetropia,HYPERACUSIS
+Corneal clouding,CORNEAL STAINING
+adenoid hypertrophy,SKIN HYPERTROPHY
+cervical polyp,NASAL POLYPS
+Bicuspid Aortic Valve,AORTIC BRUIT
+pityriasis,PITYRIASIS LICHENOIDES ET VARIOLIFORMIS ACUTA
+pneumonectomy,PNEUMOTHORAX
+cavernous sinus thrombosis,SINUSITIS
+Seasonal Affective Disorder,MOOD SWINGS
+brachial neuritis,NEURITIS
+transurethral resection of the prostate,NEOPLASM PROSTATE
+faecal impaction,FAECES DISCOLOURED
+hematospermia,ANAEMIA
+Pertussis,EYE PRURITUS
+IgA nephropathy,NEPHRITIS INTERSTITIAL
+rhabdomyosarcoma,RHABDOMYOLYSIS
+orchiectomy,ORTHOPNOEA
+CYSTO,CYST
+hemophilia B,NEUTROPHILIA
+gonorrhea,GOUT
+otosclerosis,OTITIS MEDIA ACUTE
+erythremia,ANAEMIA
+Masculinization,MENINGISM
+Typhoid,CUSHINGOID
+skin abrasion,SKIN WRINKLING
+cervical stenosis,BLADDER STENOSIS
+traumatic amputation,POST-TRAUMATIC PAIN
+Vasomotor Rhinitis,RHINITIS
+Acromegaly,CARDIOMEGALY
+anthrax,ARTHRALGIA
+septic abortion,ABORTION SPONTANEOUS
+splinter,SPLINTER HAEMORRHAGES
+estrogen replacement,OESTROGEN DEFICIENCY
+rabies,RALES
